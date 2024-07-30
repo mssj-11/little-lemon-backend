@@ -13,14 +13,15 @@
 
 [View Live API Website/Docs](https://little-lemon-backend.onrender.com/)
 
-![Deployed backend website with documentation screenshot](https://github.com/mehdiaitouchrif/little-lemon-backend/assets/112659075/349fb2ef-3156-4573-ac71-1e89e8a959f2)
+
+<p align="center"><img src="screen.png" /></p>
 
 ## Installation
 
 1. Clone the repository
 
 ```bash
-
+git clone https://github.com/mssj-11/little-lemon-backend.git
 ```
 
 2. Create a virtual environment and activate it
